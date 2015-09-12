@@ -1,0 +1,1 @@
+d:\timetable\timetable\timetable\bin\Debug\timetable.exe.config
