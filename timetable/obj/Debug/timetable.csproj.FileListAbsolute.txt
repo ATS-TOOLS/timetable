@@ -9,3 +9,6 @@ d:\timetable\timetable\timetable\obj\Debug\timetable.exe
 d:\timetable\timetable\timetable\obj\Debug\timetable.pdb
 d:\timetable\timetable\timetable\obj\Debug\timetable.Form2.resources
 d:\timetable\timetable\timetable\obj\Debug\timetable.Form3.resources
+D:\timetable\timetable\bin\Debug\timetable.exe.config
+D:\timetable\timetable\obj\Debug\timetable.exe
+D:\timetable\timetable\obj\Debug\timetable.pdb
