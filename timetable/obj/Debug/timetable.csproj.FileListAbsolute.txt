@@ -1,1 +1,11 @@
 d:\timetable\timetable\timetable\bin\Debug\timetable.exe.config
+d:\timetable\timetable\timetable\bin\Debug\timetable.exe
+d:\timetable\timetable\timetable\bin\Debug\timetable.pdb
+d:\timetable\timetable\timetable\obj\Debug\timetable.csprojResolveAssemblyReference.cache
+d:\timetable\timetable\timetable\obj\Debug\timetable.Form1.resources
+d:\timetable\timetable\timetable\obj\Debug\timetable.Properties.Resources.resources
+d:\timetable\timetable\timetable\obj\Debug\timetable.csproj.GenerateResource.Cache
+d:\timetable\timetable\timetable\obj\Debug\timetable.exe
+d:\timetable\timetable\timetable\obj\Debug\timetable.pdb
+d:\timetable\timetable\timetable\obj\Debug\timetable.Form2.resources
+d:\timetable\timetable\timetable\obj\Debug\timetable.Form3.resources
