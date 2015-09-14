@@ -92,8 +92,33 @@ namespace timetable
                 MessageBox.Show("error");
             }
         }
+        //private void Form1_Load(object sender, EventArgs e)
+        //{
+         //   Button[] btn;
+            //Label[] lbl;
 
-      
+        //    btn = new Button[20];
+        //    lbl = new Label[20];
+
+        //    for (int i = 0; i < 15; i++)
+        //    {
+        //        btn[i] = new Button();
+        //        lbl[i] = new Label();
+        //        btn[i].Name = "Delete" + i.ToString();
+        //        btn[i].Parent = this;
+        //        btn[i].Tag = i;
+        //        btn[i].Text = "Button" + i.ToString();
+       //         btn[i].Location = new Point(0, i * 40);
+       //         btn[i].Click += new System.EventHandler(this.btn_click);
+       //     }
+       // }
+
+        protected void btn_click(object sender, EventArgs e)
+        {
+            Button btn = (Button)sender;
+            MessageBox.Show("You clicked button " + btn.Tag);
+        }
+
 
     }
 }
